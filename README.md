@@ -1,5 +1,7 @@
 # BlueJ-Dark-Mode-Theme
-Dark theme for BlueJ Java IDE.
+BlueJ Dark Mode theme, inspired by some similar repositories (this is an enhanced version of some).
+This theme is more comprehensive than its predecessors (windows that have not been repainted in the other themes are now darkly colored),
+and unlike the other themes it also contains prominent color markings for the different frames in the code editor (similar to the idea of painting the frames in the default theme)
 
 Installation guide
 -----------------------------------------------------------------------------------------------
