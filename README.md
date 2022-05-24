@@ -20,6 +20,7 @@ To switch back to the defualt theme you can follow the same instructions and usi
 Screenshots
 -----------------------------------------------------------------------------------------------
 
-![Screenshot-Main-Window](https://link.com/picture.png)
-
+![Screenshot-Main-Window](https://github.com/Tomer-Aharoni/BlueJ-Dark-Mode-Theme/blob/main/BlueJ-Main-Window-Screenshot.png)
+![Screenshot-Editor-Window](https://github.com/Tomer-Aharoni/BlueJ-Dark-Mode-Theme/blob/main/BlueJ-Editor-Screenshot.png)
+![Screenshot-Terminal-Window](https://github.com/Tomer-Aharoni/BlueJ-Dark-Mode-Theme/blob/main/BlueJ-Terminal-Screenshot.png)
 -----------------------------------------------------------------------------------------------
