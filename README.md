@@ -5,15 +5,17 @@ and unlike the other themes it also contains prominent color markings for the di
 
 Installation guide
 -----------------------------------------------------------------------------------------------
+YouTube Tutorial: https://youtu.be/pmAf33pMbTo
 
 1. Download the repo files  (```Code``` >> ```Download ZIP```).
-2. Extract the files from the ```.zip``` file.
-3. Copy the files in the ```stylesheets``` folder
-4. Go to ```C:\Program Files\BlueJ\lib\stylesheets```, and replace the files in this folder with the copied files.
-5. Close BlueJ if open and start BlueJ again.
+2. Go to ```C:\Program Files\BlueJ\lib\stylesheets``` and rename the ```stylesheets``` folder to ```Original Stylesheets``` (for making your own backup).
+3. Extract the ```stylesheets``` folder from the ```.zip``` file to the ```lib``` folder 
+   (This new ```stylesheets``` folder replaces the old stylesheets folder).
+4. Close BlueJ if open and start BlueJ again.
 
-The original stylesheets (BlueJ default theme) are inculded in the ```Original Stylesheets``` folder. 
-To switch back to the defualt theme you can follow the same instructions and using the ```Original Stylesheets``` folder's files instead of the ```stylesheets``` folder's files.
+The original stylesheets (BlueJ default theme) are also inculded in the ```Original Stylesheets``` folder. 
+To switch back to the defualt theme you can follow the same instructions, using your own ```Original Stylesheets``` folder's files
+or my ```Original Stylesheets``` folder's files instead of the ```stylesheets``` folder's files.
 
 -----------------------------------------------------------------------------------------------
 
